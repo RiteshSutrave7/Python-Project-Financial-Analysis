@@ -1,0 +1,42 @@
+Requirements
+
+To run this project, ensure you have the following dependencies installed:
+
+Prerequisites:
+
+Python 3.7+
+
+vs code
+
+Libraries:
+
+pandas
+
+numpy
+
+plotly
+
+xml.etree.ElementTree
+
+Installation:
+
+To run this script, install the following dependencies:
+
+pip install pandas plotly
+
+Usage
+
+Run the script using Python:
+
+python financial_analysis.py
+
+Outputs
+
+Upon execution, the script:
+
+Displays financial charts.
+
+Generates CSV reports with extracted financial data.
+
+Outputs summary statistics and financial ratios.
+
